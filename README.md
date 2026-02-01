@@ -18,6 +18,12 @@ It uses **ReAct** framework. The agent doesn't just retrieve text, it thinks abo
 
 **GOOGLE'S EMBEDDINGS** = Uses Google's **'text-embedding-004'** for semantic understanding.
 
+### 🎬 DEMO
+
+<img src="assets/Prezentacja.gif" alt="Agentic RAG Assistant DEMO" width="600">
+
+**Real-time reasoning: Llama 3.3 70B via Groq LPU**
+
 ### 🛠️ STACK
 | Component | Technology |
 | :--- | :--- |
